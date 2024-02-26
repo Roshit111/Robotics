@@ -29,6 +29,6 @@
 
 ### Car 
 <div align="center">
-    <img src="./Images/Car Top View.jpg" alt="Top View" height="400px">
-    <img src="./Images/Car Front View.jpg" alt="Front View" height="400px">
+    <img src="./Images/Car Top View.jpg" alt="Top View" height="600px">
+    <img src="./Images/Car Front View.jpg" alt="Front View" height="600px">
 </div>
