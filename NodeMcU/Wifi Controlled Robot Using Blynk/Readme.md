@@ -22,7 +22,7 @@
     <p><em>Circuit Design</em></p>
 </div>
 
-### Circuit Diagram
+### Blynk Interface
 
 <div align="center">
     <img src="./Images/Blynk.jpg" alt="Blynk">
