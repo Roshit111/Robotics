@@ -18,7 +18,7 @@
 
 ### Circuit Diagram
 <div align="center">
-    <img src="Circuit Design.png" alt="Circuit Diagram">
+    <img src="images/Circuit Design.png" alt="Circuit Diagram">
     <p><em>Circuit Design</em></p>
 </div>
 
