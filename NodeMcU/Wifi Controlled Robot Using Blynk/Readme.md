@@ -25,6 +25,6 @@
 ### Blynk Interface
 
 <div align="center">
-    <img src="./Images/Blynk.jpg" alt="Blynk">
+    <img src="./Images/Blynk.jpg" alt="Blynk" height="100px">
     
 </div>
