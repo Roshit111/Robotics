@@ -14,8 +14,6 @@ To fork the repository
 - git add .
 - git commit -m "Robotics"
 - git branch -M main
-- git config --global user.name "Roshit111"
-- git config --global user.email "210101130014@cutm.ac.in"
 - git remote add origin https://github.com/Roshit111/Robotics.git
 - git push -u origin main
 
