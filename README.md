@@ -6,7 +6,7 @@ This project is aimed at developing robotic systems for automation in various in
 ## Installation
 - Download GIT using <a href="https://github.com/git-for-windows/git/releases/download/v2.44.0.windows.1/Git-2.44.0-64-bit.exe"> Click Here </a> 
 - Download Arduino IDE using <a href="https://downloads.arduino.cc/arduino-ide/arduino-ide_2.3.2_Windows_64bit.msi" > Click Here</a>
-- Download Proteous Libraries using <a target="_blank" href="https://drive.google.com/drive/u/0/folders/10cJzJ9Z0qjL9c_IG8sQCNKtvgFms4sI6" > Click Here </a>
+- Download Proteous Libraries using <a href="https://drive.google.com/drive/u/0/folders/10cJzJ9Z0qjL9c_IG8sQCNKtvgFms4sI6" > Click Here </a>
 
 ## Contributing
 To fork the repository
