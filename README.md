@@ -8,9 +8,14 @@ This project is aimed at developing robotic systems for automation in various in
 - Download the Arduino IDE using <a href="https://downloads.arduino.cc/arduino-ide/arduino-ide_2.3.2_Windows_64bit.msi" > Click Here</a>
 
 ## Contributing
-Contributions are welcome! Please follow these steps:
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature-branch`).
-3. Make your changes and commit them (`git commit -am 'Add new feature'`).
-4. Push to the branch (`git push origin feature-branch`).
-5. Create a new Pull Request.
+To fork the repository
+- git init
+- git add .
+- git commit -m "Robotics"
+- git branch -M main
+- git config --global user.name "Roshit111"
+- git config --global user.email "210101130014@cutm.ac.in"
+- git remote add origin https://github.com/Roshit111/Robotics.git
+- git push -u origin main
+
+- git pull origin main --allow-unrelated-histories
