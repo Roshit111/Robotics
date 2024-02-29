@@ -1,4 +1,4 @@
-# Robotics and Automation Project
+# Robotics and Automation Projects & Hands on Practice
 
 ## Description
 This project is aimed at developing robotic systems for automation in various industries. It includes modules for computer vision, motion planning, and control algorithms.
