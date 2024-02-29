@@ -5,7 +5,7 @@ This project is aimed at developing robotic systems for automation in various in
 
 ## Installation
 - Download the GIT using <a href="https://github.com/git-for-windows/git/releases/download/v2.44.0.windows.1/Git-2.44.0-64-bit.exe"> Click Here </a> 
-- Download the Arduino IDE using <a href="#" > Click Here</a>
+- Download the Arduino IDE using <a href="https://downloads.arduino.cc/arduino-ide/arduino-ide_2.3.2_Windows_64bit.msi" > Click Here</a>
 
 ## Contributing
 Contributions are welcome! Please follow these steps:
