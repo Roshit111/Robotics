@@ -5,7 +5,7 @@ This project is aimed at developing robotic systems for automation in various in
 
 ## Installation
 1. Clone this repository.
-2. Install the required dependencies using `pip install -r requirements.txt`.
+2. Install the GIT using <a href="#"> Click Here </a> 
 3. Run `setup.sh` script to initialize the environment.
 
 ## Contributing
