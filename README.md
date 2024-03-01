@@ -10,9 +10,9 @@ This project is aimed at developing robotic systems for automation in various in
 
 ## Additional Board Preferences Link
 ### ESP32
-
+- https://dl.espressif.com/dl/package_esp32_index.json
 ### NodeMcU / Esp8266 
-- https://dl.espressif.com/dl/package_esp32_index.json, http://arduino.esp8266.com/stable/package_esp8266com_index.json
+- http://arduino.esp8266.com/stable/package_esp8266com_index.json
 
 ## Contributing
 To fork the repository
