@@ -18,7 +18,7 @@ This project is aimed at developing robotic systems for automation in various in
 To fork the repository
 - git init
 - git add .
-- git commit -m "Robotics"
+- git commit -m "Robotics Projects"
 - git branch -M main
 - git remote add origin https://github.com/Roshit111/Robotics.git
 - git push -u origin main
