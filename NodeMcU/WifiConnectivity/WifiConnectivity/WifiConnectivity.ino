@@ -3,8 +3,8 @@
 #define BAUD_RATE 115200
 #define WIFI_Led D4
 
-#define WIFI_SSID "XXXXXXXX"      // WiFi Name
-#define WIFI_PASS "XXXXXXXX"      // WiFi Password
+#define WIFI_SSID "XXXXXXXX"        // WiFi Name
+#define WIFI_PASS "XXXXXXXX"        // WiFi Password
 
 void setup() {
   Serial.begin(BAUD_RATE);
@@ -29,11 +29,11 @@ void WiFiSetup() {
 
   int attempts = 0;
   while (WiFi.status() != WL_CONNECTED) {
-    delay(500);
     Serial.print(".");
+    digitalWrite(WIFI_Led, HIGH);
+    delay(500);
     digitalWrite(WIFI_Led, LOW);
     delay(500);
-    digitalWrite(WIFI_Led, HIGH);
 
     attempts++;
     if (attempts > 20) {
@@ -42,9 +42,7 @@ void WiFiSetup() {
     }
   }
 
-  digitalWrite(WIFI_Led, LOW);
   Serial.printf("\n [WiFi] : Successfully Connected");
   Serial.printf("\n [WiFi] : Network Name -> %s", WIFI_SSID);
-  Serial.printf("\n [WiFi] : IP Address   -> %s", WiFi.localIP().toString().c_str());
-  Serial.println("");
+  Serial.printf("\n [WiFi] : IP Address   -> %s \n", WiFi.localIP().toString().c_str());
 }
